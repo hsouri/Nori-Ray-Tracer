@@ -1,5 +1,5 @@
 # Nori-Ray-Tracer
-Nori code ray tracer. Computer Graphics CMSC740
+Nori code ray tracer.
 
 
 # Projects Links
